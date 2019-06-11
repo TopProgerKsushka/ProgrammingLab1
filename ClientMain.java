@@ -18,6 +18,7 @@ import static java.lang.System.exit;
 public class ClientMain {
     static Gson gson = new Gson();
     public static void main(String args[]) throws NoSuchAlgorithmException, IOException, Guest.DBException, ParserConfigurationException{
+        System.out.println("Я Вера");
         if (args.length != 4) {
             System.out.println("4 arguments required : <server> <port> <username> <password>");
             return;
