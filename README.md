@@ -1,4 +1,4 @@
-# src
+# Object model
 Task goal: Learn basic OOP principles using simple example and use them in your program
 
 TO DO: Build an object model according to the description of the subject area
